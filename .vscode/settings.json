@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "socket.h": "c",
+        "netdb.h": "c",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "*.tcc": "c",
+        "exception": "c",
+        "fstream": "c",
+        "iosfwd": "c",
+        "new": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "unistd.h": "c"
+    }
+}
